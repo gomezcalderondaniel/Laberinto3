@@ -13,9 +13,9 @@ var size = {
   // s: 10,
   // w: 30,
   // h: 30,
-  w:  25,
-  s: 20,
-  h: 25
+  w:  80,
+  s: 7,
+  h: 80
 };
 console.log(size);
 
